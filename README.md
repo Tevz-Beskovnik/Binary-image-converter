@@ -12,3 +12,6 @@ white the output will not be as you might expect.
 
 All you need is gcc and cmake. Build with provided cmake
 file.
+
+----
+Thanks to Scott Graham for the jpeg_decore.h [library](https://scot.tg/2009/12/02/mini-jpeg-decoder/)
